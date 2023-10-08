@@ -1,8 +1,8 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://jeussantiago.github.io/portfolio/)
 
 
-<h1 align="center">Hi👋 I'm Jeus Santiago</h1>
-<h3 align="center">I'm a web developer who's equally passionate about crafting code and exploring the world. I specialize in web development, both frontend and backend, and I've delved into the fascinating realm of blockchain. During my studies, I focused on data science, where I delved into uncovering insights from complex data sets.</h3>
+<h1 align="center" style="cursor: default; text-decoration: none;">Hi👋 I'm Jeus Santiago</h1>
+<h3 align="center" style="cursor: default; text-decoration: none;">I'm a web developer who's equally passionate about crafting code and exploring the world. I specialize in web development, both frontend and backend, and I've delved into the fascinating realm of blockchain. During my studies, I focused on data science, where I delved into uncovering insights from complex data sets.</h3>
 
 
 - 👨‍💻 My Portfolio [https://jeussantiago.github.io/portfolio/](https://jeussantiago.github.io/portfolio/)
