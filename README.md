@@ -1,10 +1,9 @@
-[![MasterHead](https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gifv)](https://jeussantiago.github.io/portfolio/)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://jeussantiago.github.io/portfolio/)
 
 
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jeus Santiago</h1>
+<h1 align="center">Hi👋 I'm Jeus Santiago</h1>
 <h3 align="center">I'm a web developer who's equally passionate about crafting code and exploring the world. I specialize in web development, both frontend and backend, and I've delved into the fascinating realm of blockchain. During my studies, I focused on data science, where I delved into uncovering insights from complex data sets.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 My Portfolio [https://jeussantiago.github.io/portfolio/](https://jeussantiago.github.io/portfolio/)
 
@@ -22,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeussantiago&show_icons=true&locale=en&layout=compact" alt="jeussantiago" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeussantiago&show_icons=true&locale=en" alt="jeussantiago" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeussantiago&" alt="jeussantiago" /></p>
